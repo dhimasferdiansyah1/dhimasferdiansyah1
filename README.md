@@ -2,16 +2,6 @@
 
 ###
 
-<h2 align="center">✏️About me</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://tenor.com/btXcc.gif"  />
-</div>
-
-###
-
 <p align="center">✨ Fullstack Developer ✨<br>2023</p>
 
 ###
@@ -42,21 +32,13 @@
 
 ###
 
-<h2 align="right">Database</h2>
-
-###
-
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-###
-
-<h2 align="left">Designs</h2>
 
 ###
 
