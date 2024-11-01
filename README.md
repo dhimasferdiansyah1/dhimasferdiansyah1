@@ -1,6 +1,6 @@
 <p align="center">✨ Fullstack Developer ✨<br>2024</p>
 
-<a href="www.dhimasferdiansyah.vercel.app">www.dhimasferdiansyah.vercel.app</a>
+<a href="dhimasferdiansyah.vercel.app">www.dhimasferdiansyah.vercel.app</a>
 
 ###
 
